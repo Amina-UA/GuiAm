@@ -1,0 +1,1 @@
+A toolkit for retrospective analysis, automating loops over multiple stock assessment model fits. Designed to streamline post-hoc evaluation, model customisation, and batch processing in fisheries stock assessment workflows.
